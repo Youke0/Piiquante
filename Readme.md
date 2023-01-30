@@ -8,7 +8,7 @@ leurs sauces préférées et liker ou disliker les sauces ajoutées par les autr
 <h2>Initalisation de l'application web</h2>
 
 Après avoir récupéré le projet, il faut initialiser le frontend avec "ng serve".
-Puis il faut initialiser le Backend avec "node server"
+Puis il faut initialiser le Backend avec "npm install" puis "node server"
 
 Exceptionnellement, le fichier .env qui permet de se connecter à la base de donnée et d'accéder au Token
 est présent afin de permettre la vérification du bon fonctionnement du projet.
