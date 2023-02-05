@@ -1,6 +1,5 @@
 const Sauce = require('../models/sauce')
 const fs = require('fs')
-//const sauce = require('../models/sauce')
 
 exports.getSauces = (req, res, next) => {
     Sauce.find().then(sauces => {
