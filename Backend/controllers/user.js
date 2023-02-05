@@ -1,4 +1,3 @@
-//Importation des packages
 const User = require('../models/user')
 const emailValidator = require('email-validator')
 const passwordValidator = require('password-validator')
