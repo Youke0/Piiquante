@@ -1,4 +1,3 @@
-//Importation des différents Packages
 const express = require('express')
 require('dotenv').config()
 let userRoutes = require('./routes/user')
