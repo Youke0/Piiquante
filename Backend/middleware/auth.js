@@ -1,5 +1,4 @@
 const jsonwebtoken = require('jsonwebtoken')
-//require('dotenv')
 
 module.exports = (req, res, next) => {
     try {
